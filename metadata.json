@@ -1,0 +1,6 @@
+{
+  "name": "PuzzleCraft 3D: Low-Code Puzzle Forge",
+  "description": "Build, customize logic with low-code nodes, and play 3D puzzles offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
